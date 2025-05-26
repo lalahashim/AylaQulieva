@@ -104,6 +104,7 @@ button:hover {
 }
 .bron-btn a:hover{
   background-color: #537D5D !important;
+  border-color: #537D5D !important;
 }
 
 #services {
